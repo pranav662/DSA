@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run C Code with TCC",
+			"type": "shell",
+			"command": "c:\\Users\\shing\\DSA\\tcc\\tcc\\tcc.exe -run insert_display.c",
+			"group": "build"
+		}
+	]
+}

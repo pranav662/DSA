@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run with TCC",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "c:\\Users\\shing\\DSA\\tcc\\tcc\\tcc.exe",
+            "args": ["-run", "${file}"],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "console": "integratedTerminal"
+        }
+    ]
+}
